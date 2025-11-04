@@ -39,7 +39,8 @@ Key Features: alcohol, pH, acidity, sulphates, quality (0–10).
 - Test statistic & p-value  
 - Visualizations: boxplot and histogram  
 
----
+---<img width="723" height="242" alt="p value" src="https://github.com/user-attachments/assets/2df63541-ef2b-470a-b10f-dffaa879b951" />
+
 
 ### 6️⃣ Insights
 - If p <
